@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey+👋,+Shirin+Thabasum;Let's+Learn;Understand+And+Grow" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey+👋,+I'am+Shirin+Thabasum;Let's+Learn;Understand+And+Grow" alt="Typing Animation"/>
 </h1>
 
 </div>
